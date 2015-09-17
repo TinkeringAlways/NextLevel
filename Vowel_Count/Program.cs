@@ -27,7 +27,6 @@ namespace Vowel_Count
                 }
             }
 
-
             return vowelCount;
         }
     }

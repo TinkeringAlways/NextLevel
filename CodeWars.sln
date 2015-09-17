@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deodorant_Evaporator", "Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel_Count", "Vowel_Count\Vowel_Count.csproj", "{B673F0A4-4570-472F-A78A-667B302DC294}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTheFirstNthTermOfSeries", "SumOfTheFirstNthTermOfSeries\SumOfTheFirstNthTermOfSeries.csproj", "{5A690B8D-BD95-4A37-A6EB-5625AB545463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building_Blocks", "Building_Blocks\Building_Blocks.csproj", "{61D988E4-883D-49B8-BBFD-1931B915C83C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B673F0A4-4570-472F-A78A-667B302DC294}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B673F0A4-4570-472F-A78A-667B302DC294}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B673F0A4-4570-472F-A78A-667B302DC294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A690B8D-BD95-4A37-A6EB-5625AB545463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A690B8D-BD95-4A37-A6EB-5625AB545463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A690B8D-BD95-4A37-A6EB-5625AB545463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A690B8D-BD95-4A37-A6EB-5625AB545463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D988E4-883D-49B8-BBFD-1931B915C83C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D988E4-883D-49B8-BBFD-1931B915C83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D988E4-883D-49B8-BBFD-1931B915C83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D988E4-883D-49B8-BBFD-1931B915C83C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
