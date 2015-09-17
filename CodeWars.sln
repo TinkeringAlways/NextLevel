@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTheFirstNthTermOfSerie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Building_Blocks", "Building_Blocks\Building_Blocks.csproj", "{61D988E4-883D-49B8-BBFD-1931B915C83C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGOnlinePlayerToQualStage", "RPGOnlinePlayerToQualStage\RPGOnlinePlayerToQualStage.csproj", "{86DD4115-1C68-42C8-A30B-91E70D0B2650}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{61D988E4-883D-49B8-BBFD-1931B915C83C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D988E4-883D-49B8-BBFD-1931B915C83C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D988E4-883D-49B8-BBFD-1931B915C83C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86DD4115-1C68-42C8-A30B-91E70D0B2650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DD4115-1C68-42C8-A30B-91E70D0B2650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DD4115-1C68-42C8-A30B-91E70D0B2650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DD4115-1C68-42C8-A30B-91E70D0B2650}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
