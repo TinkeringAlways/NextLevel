@@ -10,7 +10,7 @@ namespace VasyaAndStairs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(NumberOfSteps(100,7));
+            Console.WriteLine(NumberOfSteps(25,3));
             Console.ReadLine();
         }
 
@@ -22,18 +22,19 @@ namespace VasyaAndStairs
             {
                 howMany = -1;
             }
+            else if (n % 2 == 0 && (n/2) % m == 0)
+            {
+                howMany = n / 2;
+            }
             else
             {
-                int ones = 0;
-
-                if ((n / 2) % m != 0)
+                for (int i = n/2 + 1; ; i++)
                 {
-                    int rem = (n/m) % m;
-
-                }
-                else
-                {
-                    howMany = (n/m);
+                    if (i % m == 0)
+                    {
+                        howMany = i;
+                        break;
+                    }
                 }
             }
 
