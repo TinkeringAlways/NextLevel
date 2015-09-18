@@ -11,7 +11,7 @@ namespace NotCodeWars_ReverseWordsInSentence
     {
         static void Main(string[] args)
         {
-            ReverseWords("Please Reverse all of my words for me!!");
+            ReverseLetters("Please Reverse all of my words for me!!");
             Console.ReadLine();
         }
 
@@ -33,6 +33,13 @@ namespace NotCodeWars_ReverseWordsInSentence
 
         public static void ReverseLetters(string let)
         {
+            char[] c = let.ToCharArray();
+            Stack<char> revChars = new Stack<char>(c);
+
+            foreach (char r in revChars)
+            {
+                Console.Write(r);
+            }
             
         }
     }
