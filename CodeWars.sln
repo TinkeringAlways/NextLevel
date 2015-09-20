@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithCube3", "Playing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotCodeWars_PowerOf2", "NotCodeWars_PowerOf2\NotCodeWars_PowerOf2.csproj", "{2DBF4B3B-FE7D-493C-8C38-1240EC3C3FFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotCodeWars_TextBoxOnlyNumeric", "NotCodeWars_TextBoxOnlyNumeric\NotCodeWars_TextBoxOnlyNumeric.csproj", "{EBFC8DEE-058D-424F-8D1F-58DFA041EF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotCodeWars_FormatDecimalPlaces", "NotCodeWars_FormatDecimalPlaces\NotCodeWars_FormatDecimalPlaces.csproj", "{EC1E8E41-FBAB-481C-819C-0C710FCF4A4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{2DBF4B3B-FE7D-493C-8C38-1240EC3C3FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DBF4B3B-FE7D-493C-8C38-1240EC3C3FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DBF4B3B-FE7D-493C-8C38-1240EC3C3FFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFC8DEE-058D-424F-8D1F-58DFA041EF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFC8DEE-058D-424F-8D1F-58DFA041EF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFC8DEE-058D-424F-8D1F-58DFA041EF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFC8DEE-058D-424F-8D1F-58DFA041EF02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1E8E41-FBAB-481C-819C-0C710FCF4A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1E8E41-FBAB-481C-819C-0C710FCF4A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1E8E41-FBAB-481C-819C-0C710FCF4A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1E8E41-FBAB-481C-819C-0C710FCF4A4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
